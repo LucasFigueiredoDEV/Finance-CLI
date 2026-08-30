@@ -1,4 +1,4 @@
-import src.ui.Menu;
+import ui.Menu;
 
 import java.util.Scanner;
 
