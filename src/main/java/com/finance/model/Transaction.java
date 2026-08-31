@@ -5,6 +5,7 @@ import java.time.LocalDateTime;
 
 public class Transaction {
 
+    private Long id;
     private BigDecimal value;
     private TransactionType type;
     private LocalDateTime dateTime;
